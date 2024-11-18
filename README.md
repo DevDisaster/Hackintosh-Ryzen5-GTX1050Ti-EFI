@@ -1,0 +1,1 @@
+# Hackintosh-Ryzen5-GTX1050Ti-EFI
